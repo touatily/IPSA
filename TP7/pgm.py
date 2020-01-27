@@ -1,4 +1,4 @@
-import cours
+import bib
 import tkinter as tk
 
 def calculer():
